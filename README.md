@@ -1,2 +1,1 @@
-# ShahabAhmed5
-# 2021-04-21
+# 💫 About Me: About Me :<br>🖥️ I'm currently working on a GenAI project for a medical assistant chatbot and optimizing course scheduling using Gurobi.<br>🤝 I'm looking to collaborate on AI/ML projects, healthcare tech, and full-stack web development.<br>🆘 I'm looking for help with fine-tuning BERT for medical NLP tasks and advanced optimization techniques.<br>🌱 I'm currently learning Next.js, Tailwind CSS, and medical code automation (ICD-10, SNOMED).<br>💬 Ask me about .NET development, AI
